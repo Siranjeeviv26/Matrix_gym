@@ -87,9 +87,10 @@ export default function WorkoutSession() {
           <div>
             <h2 className="text-4xl font-bold text-white mb-6">TOP WORKOUT SESSION</h2>
             <p className="text-gray-400 mb-8 leading-relaxed">
-              Lorem ipsum dolor sit amet consectetur adipiscing elit. Consectetur 
-              adipiscing elit Lorem ipsum dolor sit amet consectetur adipiscing elit. 
-              Consectetur adipiscing elit Lorem ipsum dolor sit amet consectetur.
+              Push your limits with this high-intensity full-body workout. 
+              Burn fat, build strength, and boost endurance with a mix of cardio, bodyweight drills, and core crushers. 
+              Perfect for all fitness levels. 
+              Get ready to sweat, grind, and feel the burn!
             </p>
 
             <div className="space-y-6">
