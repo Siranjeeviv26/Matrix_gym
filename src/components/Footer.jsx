@@ -11,6 +11,13 @@ export default function Footer() {
               and expert guidance.
             </p>
             <div className="flex space-x-4">
+               {/* YouTube */}
+              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="YouTube">
+                <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M21.8 8.001a2.75 2.75 0 0 0-1.93-1.94C18.2 6 12 6 12 6s-6.2 0-7.87.06A2.75 2.75 0 0 0 2.2 8.001 28.6 28.6 0 0 0 2 12a28.6 28.6 0 0 0 .2 3.999 2.75 2.75 0 0 0 1.93 1.94C5.8 18 12 18 12 18s6.2 0 7.87-.06a2.75 2.75 0 0 0 1.93-1.94A28.6 28.6 0 0 0 22 12a28.6 28.6 0 0 0-.2-3.999zM10 15.5v-7l6 3.5-6 3.5z"/>
+                </svg>
+              </a>
+              
               {/* Instgram */}
               <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors">
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">

@@ -2,7 +2,7 @@ export default function FitnessPlans() {
   const plans = [
     {
       name: "QUARTERLY PACKAGE",
-      price: "18000",
+      price: "18,000",
       duration: "3 Months",
       features: [
         "Unlimited Access",
@@ -16,7 +16,7 @@ export default function FitnessPlans() {
     },
     {
       name: "HALF YEARLY PACKAGE",
-      price: "34000",
+      price: "34,000",
       duration: "6 Months",
       features: [
         "Unlimited Access",
@@ -31,7 +31,7 @@ export default function FitnessPlans() {
     },
     {
       name: "YEARLY PACKAGE",
-      price: "67000",
+      price: "67,000",
       duration: "12 Months",
       features: [
         "Unlimited Access",
